@@ -1,2 +1,1 @@
-# Trex-2.0
-Videojuego de Santiago Marin:
+# Juegos-compatibles-con-dispositivos
